@@ -3,3 +3,4 @@ checkpoints/
 __pycache__/
 *.pyc
 wavs
+test_ua/model_ckpt_steps_300000.ckpt
